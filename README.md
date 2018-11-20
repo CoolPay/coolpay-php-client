@@ -1,8 +1,6 @@
 coolpay-php-client
 ======================
 
-[![Build Status](https://travis-ci.org/CoolPay/coolpay-php-client.svg)](https://travis-ci.org/CoolPay/coolpay-php-client) [![Code Coverage](https://scrutinizer-ci.com/g/CoolPay/coolpay-php-client/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/CoolPay/coolpay-php-client/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/CoolPay/coolpay-php-client/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/CoolPay/coolpay-php-client/?branch=master) [![Latest Stable Version](https://poser.pugx.org/coolpay/coolpay-php-client/v/stable)](https://packagist.org/packages/coolpay/coolpay-php-client) [![Total Downloads](https://poser.pugx.org/coolpay/coolpay-php-client/downloads)](https://packagist.org/packages/coolpay/coolpay-php-client) [![License](https://poser.pugx.org/coolpay/coolpay-php-client/license)](https://packagist.org/packages/coolpay/coolpay-php-client)
-
 `coolpay-php-client` is a official client for [CoolPay API](http://www.coolpay.com/docs). The CoolPay API enables you to accept payments in a secure and reliable manner. This package currently support CoolPay `v10` api.
 
 ## Installation
